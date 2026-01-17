@@ -1,2 +1,2 @@
 Spillet af: René Ginnerup Hofman Seidenfaden
-Race: 
+Race: Elf
