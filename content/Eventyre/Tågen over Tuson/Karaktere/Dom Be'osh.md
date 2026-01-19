@@ -1,4 +1,3 @@
-Dette er en test kommer den over eller under, billede siden, eller kommer den til at være ved siden af som jeg gerne vil havde den skal være 
 > [!infobox]
 > # Don Be'osh
 > ![[Pasted image 20260119212425.png|cover hsmall]]
@@ -15,8 +14,6 @@ Dette er en test kommer den over eller under, billede siden, eller kommer den ti
 > Class | Cleric |
 > Sub class | Life domain |
 > Eventyr | [[Med Lertøj fra Kagasus]], [[Tågen over Tuson]]
-
----
 
 > [!abstract]+ ***Beskrivelse***
 
