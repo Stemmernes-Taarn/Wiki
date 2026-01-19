@@ -1,4 +1,4 @@
-
+Dette er en test kommer den over eller under, billede siden, eller kommer den til at være ved siden af som jeg gerne vil havde den skal være 
 > [!infobox]
 > # Don Be'osh
 > ![[Pasted image 20260119212425.png|cover hsmall]]
@@ -26,7 +26,7 @@
 ---
 
 > [!abstract]+ ***Ability score***
-> Type |  Stat | Mod | Save | trained |
+> Type |  Stat | Mod | Save | Trained |
 > ---|---|---|---|---|
 > Strength | 16 | +3 | +3 | - | 
 > Dexterity | 12 | +1 | +1 | - |
